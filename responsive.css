@@ -1,0 +1,33 @@
+@media (max-width: 700px){
+    #card{
+        display: flex;
+        width: 90%;
+        height: 70%;
+        flex-direction: column;
+        padding-top: 80px;
+    }
+
+    .img .woman{
+        width: 40%;
+        height: 42%;
+        top: -22%;
+        left: 30%;
+    }
+
+    .img .box {
+        width: 10%;
+        height: 20%;
+        top: -5%;
+        left: 32%;
+    }
+
+    .faq {
+        margin: auto;
+        width: 90%;
+        padding-right: 20px;
+    }
+
+    .faq h1{
+        text-align: center;
+    }
+}
